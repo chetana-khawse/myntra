@@ -1,3 +1,11 @@
+
+
+
+
+
+![Screenshot (67)](https://github.com/chetana-khawse/myntra/assets/134994861/0d63ae97-d25e-41f2-a3a8-115ad38a646d)
+![Screenshot (65)](https://github.com/chetana-khawse/myntra/assets/134994861/d61fff2a-6044-4eb8-8041-4be4439ac1a8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
